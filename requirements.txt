@@ -19,5 +19,4 @@ Flask-Limiter
 uvicorn
 sqlitedict==2.1.0
 sendgrid==7.0.0rc2
-pilottai
 boto3==1.40.44
