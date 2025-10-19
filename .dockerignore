@@ -14,7 +14,4 @@ venv/
 htmlcov/
 .DS_Store
 test.py
-static/generated_newsletter.html
-db_handler/vault/*
-!db_handler/vault/.gitkeep
 *.sqlite
